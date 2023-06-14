@@ -1,4 +1,3 @@
 Your Third Branch
 Changes in File
-More Practice
-Resolving Conflicts
+More Practice required
